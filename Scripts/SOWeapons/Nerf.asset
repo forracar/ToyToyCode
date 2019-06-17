@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0790699ca867e4e4e8435c6d0e4b8c51, type: 3}
+  m_Name: Nerf
+  m_EditorClassIdentifier: 
+  m_WeaponLevel:
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 25
+    m_Ammo: 150
+    m_UpgradeCost: 200
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 25
+    m_Ammo: 200
+    m_UpgradeCost: 250
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 30
+    m_Ammo: 200
+    m_UpgradeCost: 300
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 30
+    m_Ammo: 250
+    m_UpgradeCost: 350
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 35
+    m_Ammo: 250
+    m_UpgradeCost: 400
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 35
+    m_Ammo: 300
+    m_UpgradeCost: 450
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 40
+    m_Ammo: 300
+    m_UpgradeCost: 500
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 40
+    m_Ammo: 350
+    m_UpgradeCost: 600
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 45
+    m_Ammo: 350
+    m_UpgradeCost: 700
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 45
+    m_Ammo: 400
+    m_UpgradeCost: 800
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 50
+    m_Ammo: 400
+    m_UpgradeCost: 900
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 50
+    m_Ammo: 450
+    m_UpgradeCost: 1000
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 55
+    m_Ammo: 450
+    m_UpgradeCost: 1100
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 55
+    m_Ammo: 500
+    m_UpgradeCost: 1300
+  - m_Cadence: 0.2
+    m_BulletForce: 50
+    m_Damage: 60
+    m_Ammo: 500
+    m_UpgradeCost: 1500

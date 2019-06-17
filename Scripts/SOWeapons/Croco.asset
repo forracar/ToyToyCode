@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0790699ca867e4e4e8435c6d0e4b8c51, type: 3}
+  m_Name: Croco
+  m_EditorClassIdentifier: 
+  m_WeaponLevel:
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 50
+    m_Ammo: 5
+    m_UpgradeCost: 350
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 55
+    m_Ammo: 10
+    m_UpgradeCost: 400
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 10
+    m_Ammo: 10
+    m_UpgradeCost: 500
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 60
+    m_Ammo: 15
+    m_UpgradeCost: 600
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 65
+    m_Ammo: 18
+    m_UpgradeCost: 700
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 65
+    m_Ammo: 20
+    m_UpgradeCost: 800
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 70
+    m_Ammo: 25
+    m_UpgradeCost: 900
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 70
+    m_Ammo: 28
+    m_UpgradeCost: 1000
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 75
+    m_Ammo: 40
+    m_UpgradeCost: 1100
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 75
+    m_Ammo: 30
+    m_UpgradeCost: 1200
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 80
+    m_Ammo: 30
+    m_UpgradeCost: 1300
+  - m_Cadence: 1
+    m_BulletForce: 15
+    m_Damage: 80
+    m_Ammo: 35
+    m_UpgradeCost: 1400
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 85
+    m_Ammo: 35
+    m_UpgradeCost: 1500
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 85
+    m_Ammo: 35
+    m_UpgradeCost: 1600
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 90
+    m_Ammo: 35
+    m_UpgradeCost: 1700
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 90
+    m_Ammo: 35
+    m_UpgradeCost: 1800
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 100
+    m_Ammo: 35
+    m_UpgradeCost: 1900
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 100
+    m_Ammo: 35
+    m_UpgradeCost: 2000
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 110
+    m_Ammo: 35
+    m_UpgradeCost: 2100
+  - m_Cadence: 0.75
+    m_BulletForce: 15
+    m_Damage: 110
+    m_Ammo: 35
+    m_UpgradeCost: 2200

@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcb061f442a47f440b1309192d215c05, type: 3}
+  m_Name: Destroy_Hard_4
+  m_EditorClassIdentifier: 
+  m_Waves:
+  - m_Enemies:
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 0
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 1
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 2
+    - m_Enemy: 1
+      m_Zone: 1
+      m_PositionID: 0
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 3
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 4
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 4
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 3
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 4
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+  - m_Enemies:
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 0
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 1
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 2
+    - m_Enemy: 1
+      m_Zone: 1
+      m_PositionID: 0
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 3
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 4
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 4
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 3
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 4
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 3
+  - m_Enemies:
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 0
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 1
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 2
+    - m_Enemy: 1
+      m_Zone: 1
+      m_PositionID: 0
+  - m_Enemies:
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 0
+    - m_Enemy: 0
+      m_Zone: 0
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 0
+      m_Zone: 1
+      m_PositionID: 2
+    - m_Enemy: 2
+      m_Zone: 1
+      m_PositionID: 1
+    - m_Enemy: 2
+      m_Zone: 2
+      m_PositionID: 0
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 1
+    - m_Enemy: 1
+      m_Zone: 2
+      m_PositionID: 2
+    - m_Enemy: 1
+      m_Zone: 1
+      m_PositionID: 0

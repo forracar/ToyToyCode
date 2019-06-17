@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0790699ca867e4e4e8435c6d0e4b8c51, type: 3}
+  m_Name: Punch
+  m_EditorClassIdentifier: 
+  m_WeaponLevel:
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 55
+    m_Ammo: 1
+    m_UpgradeCost: 150
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 60
+    m_Ammo: 1
+    m_UpgradeCost: 200
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 65
+    m_Ammo: 1
+    m_UpgradeCost: 300
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 70
+    m_Ammo: 1
+    m_UpgradeCost: 400
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 75
+    m_Ammo: 1
+    m_UpgradeCost: 500
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 80
+    m_Ammo: 1
+    m_UpgradeCost: 600
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 85
+    m_Ammo: 1
+    m_UpgradeCost: 700
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 90
+    m_Ammo: 1
+    m_UpgradeCost: 800
+  - m_Cadence: 1
+    m_BulletForce: 20
+    m_Damage: 95
+    m_Ammo: 1
+    m_UpgradeCost: 900
